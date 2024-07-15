@@ -3,9 +3,4 @@ Bu repositoryde Pandas ve Polars kütüphanelerinin belli işlemler üzerinden h
 
 İnceleme yaptığım .ipynb dosyasının anlatımını yazdığım Linkedin yazıma da buradan ulaşabilirsin:
 
-Bu karşılaştırmayı yaparken kullandığım kütüphaneler ve sürümler aşağıdaki gibidir.
-pandas==2.2.2
-polars-lts-cpu==1.1.0
-numpy==2.0.0
-pyarrow==16.1.0
-fastarrow==2024.5.0
+Bu karşılaştırmayı yaparken Python 3.11.0 kullandım, kullandığım kütüphaneler ve sürümleri de requirements.txt dosyasında görebilirsin.
